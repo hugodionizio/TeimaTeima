@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 08 22:56:33 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instância a816c00e-0152-2419-717f-000005a442d8
+no diretório de banco de dados /home/hugo/Windows7/Users/Public/Documents/Algoritmos/Java/Projetos/Lotadinha/myDerby 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=/home/hugo/Windows7/Users/Public/Documents/Algoritmos/Java/Projetos/Lotadinha
+os.name=Linux
+os.arch=amd64
+os.version=3.16.0-57-generic
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
